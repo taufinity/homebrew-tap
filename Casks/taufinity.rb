@@ -1,6 +1,6 @@
 cask "taufinity" do
-  version "0.6.12"
-  sha256 "d201f6f2a6f0cccd795e99c634ebdda218ca8e16f86f05706c12123c4c51ab6a"
+  version "0.6.13"
+  sha256 "1d4e81b694a06ef24a1a41605c6f23548f0717e62a4604f5341a72a042416489"
 
   url "https://github.com/taufinity/cli/releases/download/v#{version}/taufinity_darwin_installer.pkg"
   name "Taufinity CLI"
